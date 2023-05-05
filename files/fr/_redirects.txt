@@ -4966,7 +4966,7 @@
 /fr/docs/Web/JavaScript/Reference/Erreurs/No_properties	/fr/docs/Web/JavaScript/Reference/Errors/No_properties
 /fr/docs/Web/JavaScript/Reference/Erreurs/No_variable_name	/fr/docs/Web/JavaScript/Reference/Errors/No_variable_name
 /fr/docs/Web/JavaScript/Reference/Erreurs/Non_configurable_array_element	/fr/docs/Web/JavaScript/Reference/Errors/Non_configurable_array_element
-/fr/docs/Web/JavaScript/Reference/Erreurs/Not_a_codepoint	/fr/docs/Web/JavaScript/Reference/Errors/Not_a_codepoint
+/fr/docs/Web/JavaScript/Reference/Erreurs/Not_a_codepoint	/fr/docs/Web/JavaScript/Reference/Errors/Not_a_valid_code_point
 /fr/docs/Web/JavaScript/Reference/Erreurs/Not_a_constructor	/fr/docs/Web/JavaScript/Reference/Errors/Not_a_constructor
 /fr/docs/Web/JavaScript/Reference/Erreurs/Not_a_function	/fr/docs/Web/JavaScript/Reference/Errors/Not_a_function
 /fr/docs/Web/JavaScript/Reference/Erreurs/Not_defined	/fr/docs/Web/JavaScript/Reference/Errors/Not_defined
@@ -4997,6 +4997,7 @@
 /fr/docs/Web/JavaScript/Reference/Errors/Deprecated_expression_closures	/fr/docs/Web/JavaScript/Reference/Deprecated_and_obsolete_features
 /fr/docs/Web/JavaScript/Reference/Errors/Deprecated_toLocaleFormat	/fr/docs/Web/JavaScript/Reference/Deprecated_and_obsolete_features
 /fr/docs/Web/JavaScript/Reference/Errors/Malformed_formal_parameter	/fr/docs/Web/JavaScript/Reference/Errors/Missing_formal_parameter
+/fr/docs/Web/JavaScript/Reference/Errors/Not_a_codepoint	/fr/docs/Web/JavaScript/Reference/Errors/Not_a_valid_code_point
 /fr/docs/Web/JavaScript/Reference/Fonctions	/fr/docs/Web/JavaScript/Reference/Functions
 /fr/docs/Web/JavaScript/Reference/Fonctions/Définition_de_méthode	/fr/docs/Web/JavaScript/Reference/Functions/Method_definitions
 /fr/docs/Web/JavaScript/Reference/Fonctions/Fonctions_fléchées	/fr/docs/Web/JavaScript/Reference/Functions/Arrow_functions
